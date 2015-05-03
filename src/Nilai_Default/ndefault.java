@@ -22,11 +22,11 @@ public class ndefault {
 			boolean bool = refBool.booleanValue();		
 			System.out.println("bool " + bool);
 			
-			Integer refInt = new Integer(65000);
+			Integer refInt = new Integer(24000);
 			int i = refInt.intValue();		
 			System.out.println("int " + i);
 			
-			Long refL = new Long(2000000000);
+			Long refL = new Long(602001120);
 			long l = refL.longValue();		
 			System.out.println("long " + l);
 			
